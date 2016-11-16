@@ -1,0 +1,1 @@
+g++ test.cpp Cart_point.cpp -o out1.exe
